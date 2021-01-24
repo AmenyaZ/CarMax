@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e99e8532-4f37-4d03-82d3-b9b0afabfa05" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MobileMechanic" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MobileMechanic" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MobileMechanic" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mbggK3FmouKydAEyWdNPwnFLtG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="show.do.not.copy.http.proxy.settings.to.gradle" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="CarMax.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarMax [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CarMax [signingReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CarMax [signingReport]" />
+        <item itemvalue="Gradle.CarMax [buildDependents]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e99e8532-4f37-4d03-82d3-b9b0afabfa05" name="Default Changelist" comment="" />
+      <created>1609767814881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609767814881</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="235" width="460" height="353" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1610872746216">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="443" y="235" width="460" height="353" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.22.1366.746@0.22.1366.746" timestamp="1610872746216" />
+    <state x="100" y="122" width="1166" height="546" key="AVDManager" timestamp="1610921450432">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="100" y="122" width="1166" height="546" key="AVDManager/0.22.1366.746@0.22.1366.746" timestamp="1610921450431" />
+    <state x="100" y="125" width="1166" height="543" key="AVDManager/0.25.1366.743@0.25.1366.743" timestamp="1610571865431" />
+    <state x="466" y="138" width="424" height="523" key="FileChooserDialogImpl" timestamp="1610571512535">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="466" y="138" width="424" height="523" key="FileChooserDialogImpl/0.25.1366.743@0.25.1366.743" timestamp="1610571512535" />
+    <state x="579" y="304" width="207" height="189" key="Github.ShareDialog" timestamp="1611523506476">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="579" y="304" width="207" height="189" key="Github.ShareDialog/0.22.1366.746@0.22.1366.746" timestamp="1611523506476" />
+    <state x="408" y="56" width="539" height="684" key="Github.UntrackedFilesDialog" timestamp="1611523524658">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="408" y="56" width="539" height="684" key="Github.UntrackedFilesDialog/0.22.1366.746@0.22.1366.746" timestamp="1611523524658" />
+    <state width="1306" height="170" key="GridCell.Tab.0.bottom" timestamp="1610921429071">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state width="1306" height="170" key="GridCell.Tab.0.bottom/0.22.1366.746@0.22.1366.746" timestamp="1610921429071" />
+    <state width="1306" height="170" key="GridCell.Tab.0.center" timestamp="1610921429070">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state width="1306" height="170" key="GridCell.Tab.0.center/0.22.1366.746@0.22.1366.746" timestamp="1610921429070" />
+    <state width="1306" height="170" key="GridCell.Tab.0.left" timestamp="1610921429070">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state width="1306" height="170" key="GridCell.Tab.0.left/0.22.1366.746@0.22.1366.746" timestamp="1610921429070" />
+    <state width="1306" height="170" key="GridCell.Tab.0.right" timestamp="1610921429070">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state width="1306" height="170" key="GridCell.Tab.0.right/0.22.1366.746@0.22.1366.746" timestamp="1610921429070" />
+    <state width="1306" height="170" key="GridCell.Tab.1.bottom" timestamp="1610876799010">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state width="1306" height="170" key="GridCell.Tab.1.bottom/0.22.1366.746@0.22.1366.746" timestamp="1610876799010" />
+    <state width="1306" height="170" key="GridCell.Tab.1.center" timestamp="1610876799008">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state width="1306" height="170" key="GridCell.Tab.1.center/0.22.1366.746@0.22.1366.746" timestamp="1610876799008" />
+    <state width="1306" height="170" key="GridCell.Tab.1.left" timestamp="1610876799007">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state width="1306" height="170" key="GridCell.Tab.1.left/0.22.1366.746@0.22.1366.746" timestamp="1610876799007" />
+    <state width="1306" height="170" key="GridCell.Tab.1.right" timestamp="1610876799009">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state width="1306" height="170" key="GridCell.Tab.1.right/0.22.1366.746@0.22.1366.746" timestamp="1610876799009" />
+    <state x="531" y="142" width="758" height="562" key="SettingsEditor" timestamp="1611523651186">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="531" y="142" width="758" height="562" key="SettingsEditor/0.22.1366.746@0.22.1366.746" timestamp="1611523651186" />
+    <state x="202" y="31" width="962" height="737" key="SettingsEditor/0.25.1366.743@0.25.1366.743" timestamp="1610564883904" />
+    <state x="500" y="172" width="355" height="452" key="chooseDestDirectoryDialog" timestamp="1610873776457">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="500" y="172" width="355" height="452" key="chooseDestDirectoryDialog/0.22.1366.746@0.22.1366.746" timestamp="1610873776457" />
+  </component>
+</project>

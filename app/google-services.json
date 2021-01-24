@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962527104954",
+    "project_id": "carmax-79698",
+    "storage_bucket": "carmax-79698.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962527104954:android:6df52852c1bc400a115783",
+        "android_client_info": {
+          "package_name": "com.example.carmax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962527104954-f56citpbs1imsph8pb51r0io5kfnm4ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCledW_P7dTbgmgzuRa1LT1iQfVnuW9VF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962527104954-f56citpbs1imsph8pb51r0io5kfnm4ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
