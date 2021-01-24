@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e99e8532-4f37-4d03-82d3-b9b0afabfa05" name="Default Changelist" comment="" />
+    <list default="true" id="e99e8532-4f37-4d03-82d3-b9b0afabfa05" name="Default Changelist" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,9 +197,25 @@
       <option name="presentableId" value="Default" />
       <updated>1609767814881</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1611523906269</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611523906269</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="587" y="265" width="192" height="267" key="#Notifications" timestamp="1611524038790">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="587" y="265" width="192" height="267" key="#Notifications/0.22.1366.746@0.22.1366.746" timestamp="1611524038790" />
     <state x="443" y="235" width="460" height="353" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1610872746216">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
@@ -209,6 +225,10 @@
     </state>
     <state x="100" y="122" width="1166" height="546" key="AVDManager/0.22.1366.746@0.22.1366.746" timestamp="1610921450431" />
     <state x="100" y="125" width="1166" height="543" key="AVDManager/0.25.1366.743@0.25.1366.743" timestamp="1610571865431" />
+    <state x="296" y="22" width="764" height="746" key="CommitChangelistDialog2" timestamp="1611523781915">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="296" y="22" width="764" height="746" key="CommitChangelistDialog2/0.22.1366.746@0.22.1366.746" timestamp="1611523781915" />
     <state x="466" y="138" width="424" height="523" key="FileChooserDialogImpl" timestamp="1610571512535">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
@@ -258,6 +278,10 @@
     </state>
     <state x="531" y="142" width="758" height="562" key="SettingsEditor/0.22.1366.746@0.22.1366.746" timestamp="1611523651186" />
     <state x="202" y="31" width="962" height="737" key="SettingsEditor/0.25.1366.743@0.25.1366.743" timestamp="1610564883904" />
+    <state x="378" y="189" width="600" height="418" key="Vcs.Push.Dialog.v2" timestamp="1611523923570">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="378" y="189" width="600" height="418" key="Vcs.Push.Dialog.v2/0.22.1366.746@0.22.1366.746" timestamp="1611523923570" />
     <state x="500" y="172" width="355" height="452" key="chooseDestDirectoryDialog" timestamp="1610873776457">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
