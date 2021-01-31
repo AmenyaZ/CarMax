@@ -5,8 +5,26 @@
       <config />
     </shared>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e99e8532-4f37-4d03-82d3-b9b0afabfa05" name="Default Changelist" comment="first commit" />
+    <list default="true" id="e99e8532-4f37-4d03-82d3-b9b0afabfa05" name="Default Changelist" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/carmax/viewScreen/Profile.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/carmax/viewScreen/Profile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_driver.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_driver.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_mechanic.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_mechanic.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_mechanic_details.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_mechanic_details.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/recycler_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/recycler_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -211,27 +229,50 @@
       <option name="project" value="LOCAL" />
       <updated>1611524046626</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="second">
+      <created>1612126461586</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612126461586</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="second" />
+    <option name="LAST_COMMIT_MESSAGE" value="second" />
   </component>
   <component name="WindowStateProjectService">
     <state x="587" y="265" width="192" height="267" key="#Notifications" timestamp="1611524038790">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
     <state x="587" y="265" width="192" height="267" key="#Notifications/0.22.1366.746@0.22.1366.746" timestamp="1611524038790" />
-    <state x="443" y="235" width="460" height="353" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1610872746216">
+    <state x="443" y="235" width="481" height="360" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1612127255232">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
-    <state x="443" y="235" width="460" height="353" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.22.1366.746@0.22.1366.746" timestamp="1610872746216" />
+    <state x="443" y="235" width="481" height="360" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.22.1366.746@0.22.1366.746" timestamp="1612127255232" />
     <state x="100" y="122" width="1166" height="546" key="AVDManager" timestamp="1610921450432">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
     <state x="100" y="122" width="1166" height="546" key="AVDManager/0.22.1366.746@0.22.1366.746" timestamp="1610921450431" />
     <state x="100" y="125" width="1166" height="543" key="AVDManager/0.25.1366.743@0.25.1366.743" timestamp="1610571865431" />
+    <state x="541" y="228" width="274" height="362" key="AndroidCreateXmlResourceDialog" timestamp="1612127546930">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="541" y="228" width="274" height="362" key="AndroidCreateXmlResourceDialog/0.22.1366.746@0.22.1366.746" timestamp="1612127546930" />
     <state x="296" y="22" width="764" height="746" key="CommitChangelistDialog2" timestamp="1611523781915">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
@@ -280,15 +321,15 @@
       <screen x="0" y="22" width="1366" height="746" />
     </state>
     <state width="1306" height="170" key="GridCell.Tab.1.right/0.22.1366.746@0.22.1366.746" timestamp="1610876799009" />
-    <state x="231" y="129" width="758" height="562" key="SettingsEditor" timestamp="1612126419073">
+    <state x="525" y="121" width="758" height="562" key="SettingsEditor" timestamp="1612126648547">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
-    <state x="231" y="129" width="758" height="562" key="SettingsEditor/0.22.1366.746@0.22.1366.746" timestamp="1612126419073" />
+    <state x="525" y="121" width="758" height="562" key="SettingsEditor/0.22.1366.746@0.22.1366.746" timestamp="1612126648547" />
     <state x="202" y="31" width="962" height="737" key="SettingsEditor/0.25.1366.743@0.25.1366.743" timestamp="1610564883904" />
-    <state x="378" y="189" width="600" height="418" key="Vcs.Push.Dialog.v2" timestamp="1611523923570">
+    <state x="378" y="189" width="600" height="418" key="Vcs.Push.Dialog.v2" timestamp="1612126482569">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
-    <state x="378" y="189" width="600" height="418" key="Vcs.Push.Dialog.v2/0.22.1366.746@0.22.1366.746" timestamp="1611523923570" />
+    <state x="378" y="189" width="600" height="418" key="Vcs.Push.Dialog.v2/0.22.1366.746@0.22.1366.746" timestamp="1612126482569" />
     <state x="500" y="172" width="355" height="452" key="chooseDestDirectoryDialog" timestamp="1610873776457">
       <screen x="0" y="22" width="1366" height="746" />
     </state>

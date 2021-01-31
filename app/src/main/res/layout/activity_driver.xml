@@ -45,7 +45,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         android:drawablePadding="10dp"
-        android:drawableLeft="@drawable/ic_search_black_24dp"/>
+        android:drawableLeft="@drawable/ic_search_black_24dp"
+        android:drawableStart="@drawable/ic_search_black_24dp" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/driverRecycler"
